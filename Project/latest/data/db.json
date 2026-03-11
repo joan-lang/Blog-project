@@ -1,0 +1,23 @@
+{
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "Welcome to The Nini Blog.\n\nHello and welcome to The Nini Blog.\n\nI'm glad you've taken a moment to visit this site. This blog was created as a space where I can share ideas, thoughts, and things that I find interesting or worth discussing.\n\nThe goal of this blog is simple: to create a place on the internet where I can write, explore topics that interest me, and improve my skills along the way.\n\nHere, you may find posts about a variety of topics. Sometimes I may write about things I am learning, projects I am working on, or interesting discoveries.\n\nSince this is only the beginning, the content will continue to evolve as the blog grows.\n\nIf you are reading this, thank you for being here at the start.\n\nStay tuned for upcoming articles.\n\n— Mario",
+      "author": "Mario",
+      "id": "1"
+    },
+    {
+      "title": "Welcome party",
+      "body": "Welcome Party\n\nEvery blog has a beginning, and every beginning deserves a small celebration.\n\nThis post is my blog's welcome party. The Nini Blog is still new, but it marks the start of something exciting. This website is a place where ideas, thoughts, and interesting topics can be shared and explored.\n\nBuilding this blog has been a great experience so far. From setting up the pages to writing the first posts, every step has helped me learn something new.\n\nOver time, more posts will be added here. Some might be about things I learn, projects I work on, or interesting ideas that come to mind. The goal is to make this blog a place that continues to grow and improve.\n\nIf you are reading this, thank you for being part of the beginning. Consider this post an open invitation to come back and see what’s new in the future.\n\nWelcome to the blog, and enjoy the party.\n\n— Edward",
+      "author": "Edward",
+      "id": "2"
+    },
+    {
+      "id": "7697",
+      "title": "HOW TO GET $K IN 2DAYS WITHOUT GETTING YOUR FB BANNED",
+      "body": "STEP: 1\nNever pick without a voice changer",
+      "author": "Nini"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
